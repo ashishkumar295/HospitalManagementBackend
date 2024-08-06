@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
   },
-  "author": "Sushant Kumar",
+  "author": "Ashish Kumar",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
