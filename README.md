@@ -24,6 +24,7 @@ The Hospital Management System is a web application designed to streamline and a
 - MongoDB
 - Mongoose
 - JavaScript
+- PostMan
 
 ## Installation
 
