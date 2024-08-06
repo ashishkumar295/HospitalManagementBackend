@@ -11,14 +11,10 @@ The Hospital Management System is a web application designed to streamline and a
 
 ## Features
 
-- User-friendly interface for easy navigation and usage.
-- Secure authentication and authorization mechanisms.
 - Manage doctors: Add, edit, and delete doctor profiles with their specialties, qualifications, and contact information.
 - Manage patients: Add, edit, and delete patient records with their personal information, medical history, and contact details.
 - Manage appointments: Schedule, update, and cancel appointments between doctors and patients.
-- Manage medical services: Maintain a list of available medical services offered by the hospital.
-- View and search functionality for doctors, patients, and appointments.
-- Dashboard for administrators to monitor system activities and generate reports.
+- Manage medical services: Maintain a list of available medical services offered by the hospital
 - Integration with external systems or APIs for additional functionality.
 
 ## Technologies Used
